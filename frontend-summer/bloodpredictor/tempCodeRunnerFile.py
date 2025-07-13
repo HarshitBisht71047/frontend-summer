@@ -1,0 +1,21 @@
+input_dict = {
+    "HGB_status": "Low",
+    "RBC_status": "Low",
+    "MCV_status": "Low",
+    "WBC_status": "Low",
+    "NEUT_status": "Low",
+    "LYM_status": "Low",
+    "PLT_status": "Low",
+    "Fatigue": 0,
+    "Dizziness": 0,
+    "Paleness": 0,
+    "Shortness_of_breath": 0,
+    "Tingling": 0,
+    "Bleeding_tendency": 0,
+    "Muscle_weakness": 0,
+    "Fever": 0,
+    "Chills": 0,
+    "Nausea": 0,
+    "Swelling": 0,
+    "Chest_discomfort": 0
+}

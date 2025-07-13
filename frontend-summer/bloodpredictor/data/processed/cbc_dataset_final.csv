@@ -1,0 +1,1861 @@
+HGB_status,RBC_status,MCV_status,WBC_status,NEUT_status,LYM_status,PLT_status,Fatigue,Dizziness,Paleness,Shortness_of_breath,Tingling,Bleeding_tendency,Muscle_weakness,Fever,Chills,Nausea,Swelling,Chest_discomfort,Disease
+Low,Low,Normal,Low,Low,Low,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Very Low,Low,Low,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,Normal,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Normal,Normal,Low,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,High,Low,Normal,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Very Low,Normal,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,Very Low,High,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,High,Normal,Normal,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,High,Normal,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,High,Normal,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,Very Low,Normal,Normal,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,High,Normal,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,Low,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,Low,Low,High,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Low,High,Low,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,High,High,Normal,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Very Low,Normal,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,High,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,High,High,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Very Low,Normal,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Very Low,High,Normal,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,Normal,High,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,High,High,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Low,Low,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Very Low,Low,High,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Normal,Low,High,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Low,High,High,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,Low,Low,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,High,High,Low,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Very Low,Low,Low,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,Normal,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Very Low,High,High,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,High,Normal,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,High,Low,Normal,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,High,Low,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Normal,Low,Low,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Low,Low,High,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Low,High,High,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Normal,Low,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,High,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,Normal,Low,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,High,High,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Low,Normal,Low,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,High,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,Very Low,Low,High,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,Normal,Low,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Very Low,Low,Low,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,High,Low,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,High,Low,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Low,Low,Low,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,High,High,High,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,High,Low,Normal,Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Normal,Low,Low,Very Low,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Normal,Low,Normal,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Very Low,Normal,Low,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Normal,High,Normal,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Normal,Low,High,High,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,High,Low,High,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Normal,High,Normal,Normal,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,High,High,Low,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,Normal,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,Low,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,High,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Normal,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Normal,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,Normal,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,Low,High,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,High,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Low,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,Low,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Normal,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Low,Normal,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Normal,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Normal,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Low,Normal,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,High,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,Normal,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,Normal,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Normal,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,Low,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,High,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Low,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,High,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,High,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Normal,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,High,High,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Normal,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,Normal,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,High,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,High,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Normal,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,High,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Normal,High,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,Low,High,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Low,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,High,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,High,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Normal,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Low,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,Low,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,High,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,High,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,High,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,Normal,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Low,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Low,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,High,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Low,High,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Normal,Low,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Low,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin Deficiency
+High,Normal,High,Very Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Normal,Normal,Very Low,Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Low,Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Low,Low,Very Low,High,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,High,Normal,Low,Low,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,High,Low,Very Low,Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Low,High,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Normal,Low,Normal,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,High,High,Low,Low,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,High,Normal,Low,Normal,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Normal,High,Very Low,Normal,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Low,Low,High,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Low,Normal,Very Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Normal,Low,Low,High,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Low,High,Very Low,Low,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Low,Normal,Very Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,High,High,Very Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Low,High,Very Low,Low,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,High,High,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Low,Normal,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Low,Low,Very Low,High,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Low,High,Very Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Low,Normal,Very Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,High,Low,Low,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,High,Normal,Very Low,Normal,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Low,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,Low,High,Very Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Low,Very Low,Low,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,High,Low,Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,High,Low,Low,Normal,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Low,Low,Very Low,High,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,Normal,Normal,Very Low,Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Low,High,Very Low,High,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Low,Normal,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,High,Normal,Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,High,High,Very Low,High,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,High,Normal,Very Low,Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Normal,Normal,Low,Low,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Normal,Very Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Normal,High,Very Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Normal,Normal,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,Low,Normal,Very Low,Low,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,High,Low,Low,Low,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,High,Low,Low,High,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,Normal,Low,Low,Normal,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,Low,Low,Low,Low,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,High,Normal,Low,Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,High,Normal,Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,High,Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,Normal,High,Low,Low,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,High,Low,Very Low,High,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Normal,High,Low,Low,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,Normal,High,Very Low,Normal,High,Very Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,High,High,Low,Normal,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,Normal,Very Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+High,Normal,High,Very Low,Normal,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Low,Low,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Low,High,Low,Very Low,High,High,High,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Normal,High,Normal,Low,Normal,High,Normal,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,High,High,Low,Low,High,Low,1,0,0,0,0,0,0,1,1,0,0,0,Viral Infection
+Very Low,Normal,High,High,High,Normal,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,High,High,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,Normal,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,High,High,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,Normal,High,High,High,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Low,Low,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,High,High,High,Normal,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Normal,Normal,High,High,High,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,Low,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Normal,High,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,High,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Low,Normal,High,High,High,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,High,High,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Normal,Low,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Low,Normal,High,High,Normal,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,Normal,High,High,High,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,Normal,Normal,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,Low,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,High,High,High,High,High,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,Normal,Low,High,High,High,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,Low,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Low,Low,High,High,Low,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,High,High,High,High,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,Normal,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,Low,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,High,High,High,High,Normal,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,Normal,High,High,Low,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,High,High,High,High,Normal,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,High,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,High,High,High,High,High,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,High,High,High,High,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Normal,Normal,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,Low,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,High,Normal,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,High,High,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,High,High,High,High,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Low,High,High,High,Normal,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,High,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Low,Low,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,Low,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Normal,High,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,Low,High,High,Normal,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,Normal,Low,High,High,Low,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Normal,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Low,Normal,High,High,High,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Normal,Low,High,High,Low,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,High,High,High,High,Low,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,High,High,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,High,Normal,High,High,Low,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Low,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,Normal,High,High,Low,Normal,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,High,Normal,High,High,High,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Low,Low,Low,High,High,Normal,Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Very Low,Low,Low,High,High,High,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+Normal,Normal,Low,High,High,Normal,High,0,0,0,0,0,0,0,1,1,0,1,0,Bacterial Infection
+High,Normal,Low,Low,Low,Normal,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,High,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,High,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,Low,Low,Low,High,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Normal,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Low,Low,Low,Low,Normal,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Low,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Low,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,Low,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,High,High,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Normal,High,Low,Low,Normal,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,High,High,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Normal,High,Low,Low,Normal,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Low,High,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,High,Low,Low,High,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Normal,High,Low,Low,Normal,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Normal,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,High,Normal,Low,Low,Low,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Normal,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Normal,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Low,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,High,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Normal,Low,Low,Low,Normal,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Normal,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,Low,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,High,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,High,High,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Low,High,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,High,Low,Low,Low,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,Low,Low,Low,High,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,High,Normal,Low,Low,Normal,Normal,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Normal,Normal,Low,Low,Normal,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,High,High,Low,Low,Low,High,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Normal,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,Low,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,High,High,Low,Low,Low,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+High,Normal,High,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,High,Low,Low,Low,Normal,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Normal,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,1,1,1,0,0,Typhoid (Possible)
+Very Low,Low,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,High,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,High,Low,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,Low,Normal,Low,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,High,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,High,High,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Normal,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,Low,Normal,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,High,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,High,High,Normal,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,High,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,High,High,Normal,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,High,Very Low,High,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,High,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,Normal,High,Low,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Low,High,High,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Normal,High,Very Low,High,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Low,Normal,High,Low,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,High,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,Low,High,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Low,Normal,High,High,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Low,Low,High,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,High,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Low,High,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,Low,Normal,Low,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,Normal,Low,High,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Normal,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,High,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,High,Normal,High,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Low,High,High,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Low,Normal,Low,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Normal,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Low,Low,Low,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,Low,Low,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,High,High,Low,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,Normal,Low,High,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Normal,Low,Low,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,High,High,High,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,Normal,Low,Normal,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Normal,High,High,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,High,High,Low,High,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Low,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,High,High,High,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,High,High,High,Low,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,Low,High,High,Low,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,Low,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,High,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,High,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+High,High,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,Normal,High,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,Low,High,High,Normal,Low,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Normal,High,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,High,Low,High,Low,Normal,Very Low,0,0,0,0,0,0,1,1,1,0,0,0,Malaria (Suspected)
+Low,High,Normal,Low,Normal,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,High,High,Low,Low,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Low,Normal,Low,Normal,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,Low,Low,High,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,High,Low,Low,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,Low,Low,Normal,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Normal,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Low,Normal,Low,High,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Low,Low,Low,High,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Low,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Low,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Normal,Low,Low,Low,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,High,Low,Normal,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Low,Normal,Low,High,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,Low,Low,Normal,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Normal,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,High,Low,High,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,Low,Low,Normal,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,Normal,Low,High,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,Low,Low,Normal,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,Normal,Low,High,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Low,Low,Low,Low,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,Low,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,High,Low,Normal,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,High,Low,Normal,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Normal,Normal,Low,Low,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Normal,Low,Low,High,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Low,Normal,Low,High,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,Low,Low,High,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Normal,High,Low,Normal,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Low,High,Low,Normal,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Normal,High,Low,High,Low,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Normal,Low,Low,Low,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,Normal,Low,High,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Normal,High,Low,High,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,High,Low,Low,Low,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Low,Normal,Low,High,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Normal,Normal,Low,Low,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Normal,Low,Low,Low,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,High,Low,Normal,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Low,Low,Low,Low,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Low,High,Low,Low,Normal,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,High,Low,Low,High,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,High,Low,Low,Low,High,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,Low,Normal,Low,Normal,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,Low,Low,Low,High,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,Low,Low,Low,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,High,Low,Normal,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,Low,Low,Low,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Low,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,High,Low,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Normal,High,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Very Low,High,Normal,Low,Low,High,Low,0,0,0,0,0,1,0,1,1,0,0,0,Dengue (Suspected)
+Low,Normal,Low,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Low,High,Very Low,Low,Low,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Normal,Low,Very Low,Low,High,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,Low,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,High,Very Low,Low,Low,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Low,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,Low,Normal,Very Low,Low,Low,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,High,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,Low,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Normal,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,High,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,Normal,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,High,High,Very Low,Low,High,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,High,High,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,Normal,Very Low,Low,High,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Low,Normal,Very Low,Low,Low,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,High,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,High,High,Very Low,Low,Low,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,High,Low,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,High,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Low,High,Very Low,Low,Low,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Normal,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,High,Low,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,High,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,High,Very Low,Low,Low,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,High,High,Very Low,Low,High,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Low,Low,Very Low,Low,Normal,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,Normal,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,High,Normal,Very Low,Low,High,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,High,High,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,High,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,High,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Low,Normal,Very Low,Low,High,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,Low,Very Low,Low,Low,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,High,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Low,Low,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,High,Low,Very Low,Low,High,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,High,Low,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,High,High,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Low,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,High,Normal,Very Low,Low,Normal,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,High,Low,Very Low,Low,High,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,Normal,Low,Very Low,Low,Normal,Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,Low,Very Low,Low,Low,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,High,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Normal,Low,Low,Very Low,Low,High,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,Low,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,High,Normal,Very Low,Low,Low,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Low,Very Low,Low,Normal,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,Low,Low,Very Low,Low,Low,High,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+Low,High,High,Very Low,Low,Normal,Normal,1,0,0,0,0,0,1,1,0,0,0,0,Possible Immunity Issue
+High,High,High,High,High,High,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Normal,High,High,Normal,High,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Normal,High,High,High,Normal,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,High,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,Low,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,High,High,High,High,High,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Normal,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Low,High,High,Low,High,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,High,High,High,Normal,High,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Low,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,High,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Normal,High,High,Low,Low,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,High,High,High,High,High,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,Normal,High,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,High,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,High,High,High,Normal,Low,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,Low,High,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Normal,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Low,High,High,Normal,Normal,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Normal,High,High,Normal,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Low,High,High,Low,Low,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,High,Low,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,High,High,High,High,Low,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Low,Low,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,High,High,High,Low,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,High,High,High,Low,Normal,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Low,High,High,Low,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,Low,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Normal,High,High,Low,High,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Low,Normal,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Normal,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Normal,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Normal,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Normal,High,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Low,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,High,Normal,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,High,High,High,Normal,High,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,High,High,High,Normal,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,High,Normal,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Low,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Low,High,High,Normal,Normal,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,High,High,High,Normal,Low,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,High,High,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,Normal,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,Normal,High,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Low,High,High,Normal,High,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,Low,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,High,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,High,Low,Very Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Low,Normal,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Low,High,High,Normal,Low,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,High,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,High,High,High,High,Low,High,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Low,High,High,High,Low,Normal,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Normal,Normal,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+High,Normal,High,High,Low,High,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Normal,Normal,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Low,Low,1,0,0,0,0,0,0,0,0,1,1,0,Possible Liver/Kidney Issue
+Very Low,Very Low,High,Normal,High,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,Normal,Normal,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,High,High,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,Normal,Low,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,High,Normal,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Normal,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,Normal,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,High,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,Low,Normal,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,Low,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Normal,Low,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,Normal,Normal,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Normal,Low,Normal,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Low,High,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,High,High,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Normal,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,Normal,Low,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,High,Low,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,High,High,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,High,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,Normal,Normal,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,High,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,High,High,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Normal,High,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,High,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,Normal,Normal,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Normal,High,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Very Low,Low,Low,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,Low,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,Normal,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,High,High,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,High,High,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,Normal,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,High,Normal,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,High,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,High,Normal,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,Low,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,High,Normal,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,High,Low,Normal,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,Low,Normal,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,High,High,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,Low,Normal,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,High,Low,Low,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,High,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,Low,High,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Low,Low,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Low,Normal,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Normal,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,High,High,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,Normal,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,Normal,Normal,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Normal,High,High,Normal,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,High,Normal,Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,Normal,High,High,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,High,Low,Very Low,1,0,1,1,0,0,0,0,0,0,0,0,Severe Anemia
+High,Low,Low,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Normal,Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Low,Normal,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,High,Normal,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Normal,Normal,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Low,High,High,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Low,Normal,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Low,High,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Normal,Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Normal,Normal,Low,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Normal,Normal,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,Normal,Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,High,Low,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Normal,Normal,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,High,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,High,Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,Normal,Normal,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,Normal,High,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Low,High,Low,High,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,High,High,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Normal,High,Normal,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Low,Normal,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Normal,High,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,Low,Very Low,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,Low,Normal,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Low,Normal,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Normal,Low,Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Low,Normal,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Low,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,High,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,Low,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Low,Low,Low,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,High,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Low,Low,High,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Low,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,High,Normal,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Normal,Low,Low,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,High,High,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Normal,High,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Low,High,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,High,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,High,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,High,High,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,High,Normal,Low,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,High,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,Low,Low,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Low,Low,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Low,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Normal,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Normal,High,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,Normal,Normal,High,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Low,High,Normal,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,Low,Low,Normal,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Normal,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Low,High,High,Normal,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Low,High,Low,Low,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,High,Low,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Low,Low,Normal,Low,High,Very Low,1,0,0,0,0,1,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Normal,Very Low,1,0,0,0,0,1,0,1,0,0,0,0,Pancytopenia (Critical)
+High,Normal,High,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,High,Very Low,Very Low,Normal,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Low,Normal,Very Low,Very Low,Normal,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,Low,Very Low,Very Low,Normal,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,Low,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Normal,High,Very Low,Very Low,High,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Normal,Low,Very Low,Very Low,Normal,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Normal,High,Very Low,Very Low,Low,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Low,Normal,Very Low,Very Low,High,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Low,High,Very Low,Very Low,Low,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Low,High,Very Low,Very Low,Low,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Low,Normal,Very Low,Very Low,Normal,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Normal,Normal,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,Normal,Normal,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Normal,Low,Very Low,Very Low,Normal,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,High,Low,Very Low,Very Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,Normal,Very Low,Very Low,Low,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,Normal,Normal,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Low,Low,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,Low,Very Low,Very Low,Low,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,High,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,Low,Very Low,Very Low,Low,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,High,High,Very Low,Very Low,Normal,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,High,Normal,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,Normal,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Normal,High,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,High,Low,Very Low,Very Low,Normal,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Low,High,Very Low,Very Low,Low,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Low,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,High,Normal,Very Low,Very Low,High,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,Low,High,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,Low,Low,Very Low,Very Low,Low,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,Normal,Very Low,Very Low,Normal,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,Low,Low,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,Low,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,Low,High,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,High,High,Very Low,Very Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,Normal,Very Low,Very Low,Low,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,Normal,Very Low,Very Low,Normal,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Normal,Normal,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Normal,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Low,High,Very Low,Very Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,Low,Very Low,Very Low,Low,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,High,Normal,Very Low,Very Low,Low,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Low,Low,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,Normal,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Very Low,High,Normal,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Low,High,Very Low,Very Low,Low,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,Normal,Normal,Very Low,Very Low,High,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Low,Normal,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,Low,High,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,High,High,Very Low,Very Low,Normal,Normal,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Low,Low,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+High,Normal,Low,Very Low,Very Low,High,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Normal,Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,Low,Low,Very Low,Very Low,Normal,Very Low,1,0,0,0,0,0,0,1,1,0,1,0,Possible Sepsis
+Low,High,Low,High,Normal,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Low,Low,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Very Low,High,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,High,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Normal,High,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Normal,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Very Low,Normal,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Very Low,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Low,Low,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Low,High,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Very Low,High,Normal,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,High,Normal,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Low,High,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,High,Low,High,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Low,Normal,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Normal,Normal,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Low,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Low,High,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Low,High,High,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,High,Normal,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,High,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Low,Low,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Normal,Normal,High,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Very Low,Low,High,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Low,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,High,Low,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,High,High,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,High,Normal,Normal,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Normal,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Very Low,Low,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Normal,High,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Low,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Normal,High,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Low,Low,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,High,High,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,High,Normal,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Low,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Very Low,Normal,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,High,High,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Normal,Normal,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Normal,Normal,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Low,High,Low,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,High,High,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Normal,High,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,Normal,Low,Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Very Low,Low,Normal,Very Low,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,Low,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Normal,Normal,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Low,High,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Low,Low,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Low,Normal,Low,High,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Very Low,High,Normal,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Normal,Low,Low,Normal,1,0,0,0,1,0,1,0,0,0,0,0,General Weakness / Nutrition
+Very Low,Normal,Normal,Low,High,High,High,0,0,1,1,0,1,1,0,1,0,1,1,Needs Medical Review
+Normal,Low,High,Normal,Low,Low,Normal,0,0,0,1,0,1,0,0,1,1,1,1,Needs Medical Review
+Low,Low,High,Low,Low,High,Very Low,1,1,0,0,1,0,0,1,1,0,0,1,Needs Medical Review
+Very Low,High,Normal,Low,Normal,Low,Low,1,1,1,1,0,1,0,0,1,0,0,0,Needs Medical Review
+Low,High,Normal,Normal,Normal,Low,Normal,0,0,0,1,1,1,0,0,0,1,0,0,Needs Medical Review
+High,Low,Low,High,Normal,Low,High,1,1,1,0,0,1,0,0,1,0,1,1,Needs Medical Review
+High,Normal,Low,Low,Low,High,Normal,1,1,0,1,1,1,1,0,0,1,0,1,Needs Medical Review
+High,Normal,Low,Normal,Normal,High,Low,0,1,0,1,0,1,1,1,1,0,0,0,Needs Medical Review
+High,Normal,Low,Normal,Low,High,High,1,1,0,0,0,1,0,1,1,0,1,0,Needs Medical Review
+Normal,Normal,Low,Very Low,High,High,High,1,1,0,0,0,0,0,0,0,1,1,1,Needs Medical Review
+High,Low,Low,Normal,Normal,High,Normal,1,1,0,0,1,0,1,0,1,0,0,1,Needs Medical Review
+Very Low,Normal,Low,Low,Normal,High,High,1,1,1,1,1,0,0,1,0,0,1,1,Needs Medical Review
+High,Low,Normal,Low,Low,Low,Very Low,0,0,1,1,0,0,0,1,1,1,0,1,Needs Medical Review
+High,High,Normal,High,Normal,Low,Low,1,0,1,0,1,1,1,0,0,1,1,0,Needs Medical Review
+High,High,Low,Low,High,High,Normal,1,0,0,0,1,0,1,0,1,0,1,1,Needs Medical Review
+High,High,High,Normal,Normal,Normal,Normal,1,0,0,1,1,0,1,0,0,1,0,1,Needs Medical Review
+High,Low,Low,Very Low,Normal,Normal,Low,1,1,1,0,0,0,0,1,1,0,1,0,Needs Medical Review
+High,Low,High,Very Low,Normal,Low,Low,0,1,1,1,0,1,0,0,1,0,1,0,Needs Medical Review
+Very Low,Low,Normal,High,Normal,Normal,High,0,1,1,1,1,0,1,0,1,1,1,1,Needs Medical Review
+Very Low,Low,High,Normal,Normal,High,Normal,1,1,1,0,1,1,1,0,0,1,0,1,Needs Medical Review
+Very Low,High,Low,Very Low,Low,Normal,Very Low,0,1,1,0,1,1,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Low,Very Low,High,Low,High,0,0,0,1,1,1,0,1,1,1,1,1,Needs Medical Review
+Low,Low,Normal,Very Low,Normal,Normal,Normal,0,1,1,0,1,0,1,0,1,0,1,0,Needs Medical Review
+Low,High,Normal,Low,High,High,Very Low,1,1,0,0,0,0,1,1,0,1,0,0,Needs Medical Review
+Very Low,High,Normal,Normal,Low,High,Normal,1,0,1,1,1,1,0,0,0,1,1,0,Needs Medical Review
+Normal,Normal,High,Normal,Normal,Low,Very Low,1,1,0,1,1,0,0,0,1,0,1,1,Needs Medical Review
+Very Low,High,High,Normal,Normal,Low,High,0,0,0,0,0,0,1,1,0,1,1,1,Needs Medical Review
+Very Low,Low,Normal,Very Low,Normal,High,Very Low,1,0,0,1,0,0,0,0,0,1,0,1,Needs Medical Review
+Very Low,Low,High,Low,Low,Low,Very Low,1,0,1,0,0,0,0,1,0,0,0,1,Needs Medical Review
+Normal,High,High,High,Normal,Low,Low,1,0,0,0,1,0,0,1,0,1,0,1,Needs Medical Review
+Low,Normal,Low,Very Low,Low,Low,High,0,0,1,0,0,0,0,0,1,1,1,0,Needs Medical Review
+Low,Low,High,Normal,High,Normal,High,0,0,0,0,1,0,1,1,1,0,0,0,Needs Medical Review
+Very Low,High,Low,Normal,High,High,Low,1,0,1,0,0,0,0,1,1,0,0,0,Needs Medical Review
+Very Low,High,Normal,Normal,Low,Normal,Normal,1,1,0,0,0,0,0,0,1,0,0,0,Needs Medical Review
+High,High,High,Normal,Normal,Low,Normal,0,0,1,0,0,0,1,0,1,0,0,1,Needs Medical Review
+High,Low,Normal,Low,Low,High,High,0,1,1,0,1,0,1,1,0,1,0,0,Needs Medical Review
+Very Low,Normal,Low,Very Low,Normal,Normal,High,0,1,0,1,0,0,0,0,1,1,0,1,Needs Medical Review
+High,Normal,Low,High,High,Low,Low,1,1,0,0,0,1,0,0,1,0,1,1,Needs Medical Review
+High,High,Low,High,Normal,Low,Very Low,0,1,0,0,1,1,0,0,0,1,1,0,Needs Medical Review
+High,High,High,Very Low,Normal,Normal,Low,1,0,1,1,0,0,1,1,0,1,1,1,Needs Medical Review
+Low,High,Low,Normal,High,Low,Normal,0,0,1,1,1,0,1,1,0,0,0,0,Needs Medical Review
+Normal,Low,High,Very Low,High,Normal,Low,0,1,1,1,1,1,0,0,1,1,1,1,Needs Medical Review
+Very Low,Normal,High,Normal,Normal,High,Normal,0,0,1,0,0,1,0,1,0,0,0,1,Needs Medical Review
+Very Low,High,Low,High,Low,Low,Very Low,1,1,0,1,1,1,1,0,1,0,0,0,Needs Medical Review
+Low,High,High,Normal,Normal,High,Normal,1,1,1,1,1,0,1,0,1,0,1,1,Needs Medical Review
+Normal,Low,Low,Normal,Normal,Normal,Low,0,1,0,0,0,0,0,0,0,1,0,1,Needs Medical Review
+Normal,Normal,Low,Low,High,High,Very Low,1,1,0,1,1,0,1,0,0,1,1,0,Needs Medical Review
+High,Normal,Low,Very Low,High,High,Normal,1,1,1,0,1,1,0,1,0,0,0,1,Needs Medical Review
+Very Low,Normal,High,Low,Normal,Normal,Very Low,1,0,0,0,1,0,0,0,1,0,1,0,Needs Medical Review
+High,Normal,High,Very Low,High,Normal,High,0,1,1,1,1,0,1,1,1,1,1,0,Needs Medical Review
+Low,High,Normal,High,Normal,Normal,Low,1,1,0,0,0,0,1,1,1,0,1,0,Needs Medical Review
+Very Low,Normal,High,Normal,Normal,Low,High,0,0,0,1,1,1,0,1,1,1,1,0,Needs Medical Review
+Very Low,Low,Low,Normal,Normal,High,High,0,1,1,0,1,0,0,0,1,1,0,1,Needs Medical Review
+High,High,Normal,Normal,High,High,High,0,1,0,1,0,0,0,1,1,0,1,0,Needs Medical Review
+Very Low,Normal,Normal,High,High,Normal,Very Low,1,1,0,0,0,0,0,1,1,1,1,1,Needs Medical Review
+Very Low,High,High,Normal,Low,Low,Low,1,1,1,1,1,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,Very Low,Low,Low,High,1,1,1,0,1,1,0,1,0,0,0,0,Needs Medical Review
+Low,High,Low,Normal,Low,Low,Low,0,1,0,0,0,1,1,0,0,0,0,0,Needs Medical Review
+High,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,1,0,0,0,1,1,1,Needs Medical Review
+Low,High,High,Low,High,High,Very Low,0,0,0,0,1,0,0,0,0,1,1,0,Needs Medical Review
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Normal,Normal,Normal,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Normal Report
+Low,Low,Normal,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Normal,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Very Low,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,Very Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,High,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,Very Low,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Low,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Very Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Very Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Normal,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,High,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Normal,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Low,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Normal,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Normal,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,Normal,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,High,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,High,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Low,High,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Normal,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Normal,Normal,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Very Low,Low,Very Low,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,Normal,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Very Low,Low,Normal,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,Low,Normal,High,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Very Low,Low,Normal,Normal,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency (Anemia)
+Low,High,High,Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Normal,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Very Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Normal,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Normal,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,High,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Normal,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,High,High,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Low,High,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+Low,Normal,High,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin Deficiency
+High,Normal,High,Very Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Normal,Normal,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Low,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Low,Low,Very Low,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,High,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,High,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Low,High,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Normal,Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,High,High,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,High,Normal,Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Normal,High,Very Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Low,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Low,Normal,Very Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Normal,Low,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Low,High,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Low,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,High,High,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Low,High,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,High,High,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Low,Normal,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Low,Low,Very Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Low,High,Very Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Low,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,High,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,High,Normal,Very Low,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Low,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,Low,High,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Low,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,High,Low,Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,High,Low,Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Low,Low,Very Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,Normal,Normal,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Low,High,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Low,Normal,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,High,Normal,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,High,High,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,High,Normal,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Normal,Very Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Normal,High,Very Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Normal,Normal,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,Low,Normal,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,High,Low,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,High,Low,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,Normal,Low,Low,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,Low,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,High,Normal,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,High,Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,Normal,High,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,High,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Normal,High,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,Normal,High,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,High,High,Low,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,Normal,Very Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+High,Normal,High,Very Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Low,Low,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Low,High,Low,Very Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Normal,High,Normal,Low,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,High,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Viral Infection
+Very Low,Normal,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,High,High,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,Normal,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,High,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,Normal,High,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Low,Low,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Normal,Normal,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,Low,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Normal,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,High,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Low,Normal,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,High,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Normal,Low,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Low,Normal,High,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,Normal,High,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,Normal,Normal,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,Low,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,High,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,Normal,Low,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,Low,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Low,Low,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,High,High,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,Normal,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,Low,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,High,High,High,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,Normal,High,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,High,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,High,High,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Normal,Normal,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,Low,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,High,Normal,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,High,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Low,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Low,Low,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,Low,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Normal,High,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,Low,High,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,Normal,Low,High,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Normal,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Low,Normal,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Normal,Low,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,High,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,High,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,High,Normal,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Low,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,Normal,High,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,High,Normal,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Low,Low,Low,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Very Low,Low,Low,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+Normal,Normal,Low,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Bacterial Infection
+High,Normal,Low,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,Low,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Normal,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Low,Low,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Low,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Low,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,High,High,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Normal,High,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,High,High,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Normal,High,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Low,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,High,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Normal,High,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Normal,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,High,Normal,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Normal,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Normal,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Low,Low,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,High,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Normal,Low,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Normal,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,High,Normal,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,High,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,High,High,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Low,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,High,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,Low,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,High,Normal,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Normal,Normal,Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,High,High,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Normal,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,High,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,High,High,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+High,Normal,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,High,Low,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Normal,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Typhoid (Possible)
+Very Low,Low,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,High,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,High,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,Low,Normal,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,High,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,High,High,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Normal,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,Low,Normal,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,High,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,High,High,Normal,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,High,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,High,High,Normal,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,High,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,High,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,Normal,High,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Low,High,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Normal,High,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Low,Normal,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,Low,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Low,Normal,High,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Low,Low,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,High,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Low,High,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,Low,Normal,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,Normal,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Normal,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,High,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,High,Normal,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Low,High,High,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Low,Normal,Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Normal,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Low,Low,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,Low,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,High,High,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Normal,Normal,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,Normal,Low,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Normal,Low,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,High,High,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,Normal,Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Normal,High,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,High,High,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Low,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,High,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,High,High,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,Low,High,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,Low,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,High,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+High,High,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Very Low,Normal,Normal,Normal,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,Low,High,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Normal,High,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,High,Low,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Malaria (Suspected)
+Low,High,Normal,Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,High,High,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Low,Normal,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,Low,Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,High,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,Low,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Normal,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Low,Normal,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Low,Low,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Low,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Normal,Low,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,High,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Low,Normal,Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,Low,Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Normal,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,High,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,Low,Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,Normal,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,Low,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,Normal,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Low,Low,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,High,Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,High,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Normal,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Normal,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Normal,Low,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Low,Normal,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,Low,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Normal,High,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Low,High,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Normal,High,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Normal,Low,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,Normal,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Normal,High,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,High,Low,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Low,Normal,Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Normal,Normal,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Normal,Low,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,High,Low,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Low,Low,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Low,High,Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,High,Low,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,High,Low,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,Low,Normal,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,Low,Low,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,Low,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,High,Low,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,Low,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,High,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+High,Normal,Normal,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Normal,High,Normal,Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Very Low,High,Normal,Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Dengue (Suspected)
+Low,Normal,Low,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Low,High,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Normal,Low,Very Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,High,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Low,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,Low,Normal,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,High,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,Low,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,Normal,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,High,High,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,High,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,Normal,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Low,Normal,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,High,High,Very Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,High,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Low,High,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,High,Very Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,High,Low,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,High,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,High,Very Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,High,High,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Low,Low,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,High,Normal,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,High,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Low,Normal,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,Low,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Low,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,High,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,High,Low,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,High,High,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Normal,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,High,Normal,Very Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,High,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,Normal,Low,Very Low,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Very Low,Normal,Low,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Low,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Normal,Low,Low,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,High,Normal,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Normal,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Low,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,Low,Low,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+Low,High,High,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Immunity Issue
+High,High,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Normal,High,High,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Normal,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,High,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Low,High,High,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,High,High,High,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Normal,High,High,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,High,High,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,High,High,High,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Low,High,High,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Normal,High,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Low,High,High,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,High,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,High,High,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,High,High,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Low,High,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Normal,High,High,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,High,High,High,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,High,High,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Low,High,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,High,High,High,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Low,High,High,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Low,High,High,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,Normal,High,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Low,High,High,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Low,High,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,High,High,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Low,High,High,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+High,Normal,High,High,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Normal,Normal,High,High,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Liver/Kidney Issue
+Very Low,Very Low,High,Normal,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Normal,Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Very Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,High,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Low,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,High,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,High,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,High,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Low,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Normal,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Normal,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Low,Normal,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,High,Very Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+Very Low,Very Low,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Severe Anemia
+High,Low,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Low,Normal,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,High,Normal,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Normal,Normal,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Low,High,High,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Low,Normal,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Low,High,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Normal,Normal,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Normal,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,Normal,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,High,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Normal,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,High,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,Normal,Normal,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,Normal,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Low,High,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Normal,High,Normal,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Low,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Normal,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,Low,Normal,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Low,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Normal,Low,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Low,Normal,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,High,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Low,Low,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,High,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Low,Low,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,High,Normal,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Normal,Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,High,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Normal,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Low,High,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,High,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,High,High,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Low,High,Normal,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,High,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,Low,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Low,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,Normal,Normal,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Normal,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,Normal,Normal,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,Normal,Low,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+High,High,Low,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,High,High,Normal,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Normal,High,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Normal,High,Low,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,Low,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,High,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Low,Low,Low,Normal,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Thrombocytopenia (Severe)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Normal,Very Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,High,Very Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+Very Low,Very Low,Low,Very Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Pancytopenia (Critical)
+High,Normal,High,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,High,Very Low,Very Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Low,Normal,Very Low,Very Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,Low,Very Low,Very Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,Low,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Normal,High,Very Low,Very Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Normal,Low,Very Low,Very Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Normal,High,Very Low,Very Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Low,Normal,Very Low,Very Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Low,High,Very Low,Very Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Low,High,Very Low,Very Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Low,Normal,Very Low,Very Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Normal,Normal,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,Normal,Normal,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Normal,Low,Very Low,Very Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,High,Low,Very Low,Very Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,Normal,Very Low,Very Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,Normal,Normal,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Low,Low,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,Low,Very Low,Very Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,High,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,Low,Very Low,Very Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,High,High,Very Low,Very Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,High,Normal,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,Normal,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Normal,High,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,High,Low,Very Low,Very Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Low,High,Very Low,Very Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,High,Normal,Very Low,Very Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,Low,High,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,Low,Low,Very Low,Very Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,Normal,Very Low,Very Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,Low,Low,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,Low,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,Low,High,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,High,High,Very Low,Very Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,Normal,Very Low,Very Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,Normal,Very Low,Very Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Normal,Normal,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Low,High,Very Low,Very Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,Low,Very Low,Very Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,High,Normal,Very Low,Very Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Low,Low,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,Normal,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Very Low,High,Normal,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Low,High,Very Low,Very Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,Normal,Normal,Very Low,Very Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Low,Normal,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Normal,High,High,Very Low,Very Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,High,High,Very Low,Very Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Low,Low,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+High,Normal,Low,Very Low,Very Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Normal,High,Very Low,Very Low,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,Low,Low,Very Low,Very Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Possible Sepsis
+Low,High,Low,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Very Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Normal,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Very Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Very Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Low,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Normal,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Very Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,High,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Low,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,High,Low,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Low,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Normal,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Low,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,High,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Normal,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Very Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Low,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,High,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Normal,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,High,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,High,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Low,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Very Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Normal,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,Normal,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Low,High,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Normal,High,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Normal,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,High,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Normal,Normal,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,High,Low,Very Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Low,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Normal,Low,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Normal,Low,Very Low,High,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Low,Low,Low,Normal,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,General Weakness / Nutrition
+Very Low,Normal,Normal,Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,Low,High,Normal,Low,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,Low,High,Low,Low,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Normal,Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,Normal,Normal,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,Low,High,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,Low,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,Normal,Normal,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,Normal,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,Normal,Low,Very Low,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,Low,Normal,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Normal,Low,Low,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,Normal,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,Normal,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,Low,Low,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,High,Normal,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,Low,Very Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,High,Very Low,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Low,Normal,High,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Low,High,Normal,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Low,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Low,Very Low,High,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,Low,Normal,Very Low,Normal,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,Normal,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Normal,Normal,Low,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,Normal,High,Normal,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,High,Normal,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Low,Normal,Very Low,Normal,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Low,High,Low,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,High,High,High,Normal,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,Normal,Low,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,Low,High,Normal,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Low,Normal,High,High,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Normal,Normal,Low,Normal,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,High,Normal,Normal,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,Normal,Low,Low,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Normal,Low,Very Low,Normal,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,High,High,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,Low,High,Normal,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,High,Very Low,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,Low,Normal,High,Low,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,Low,High,Very Low,High,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Normal,High,Normal,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,Low,High,Low,Low,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,High,Normal,Normal,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,Low,Low,Normal,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Normal,Normal,Low,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,Very Low,High,High,Normal,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Normal,High,Low,Normal,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,High,Very Low,High,Normal,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,Normal,High,Normal,Normal,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Normal,High,Normal,Normal,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Low,Low,Normal,Normal,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,High,Normal,Normal,High,High,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,Normal,Normal,High,High,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Very Low,High,High,Normal,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Normal,Low,Very Low,Low,Low,High,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,Low,Normal,Low,Low,Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+High,Low,Normal,Very Low,Low,Normal,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review
+Low,High,High,Low,High,High,Very Low,0,0,0,0,0,0,0,0,0,0,0,0,Needs Medical Review

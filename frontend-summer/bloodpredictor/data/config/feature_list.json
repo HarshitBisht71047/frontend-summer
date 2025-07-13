@@ -1,0 +1,20 @@
+{
+  "cbc_columns": [
+    "HGB_status", "RBC_status", "MCV_status",
+    "WBC_status", "NEUT_status", "LYM_status", "PLT_status"
+  ],
+  "symptom_columns": [
+    "Fatigue", "Dizziness", "Paleness", "Shortness_of_breath", "Tingling",
+    "Bleeding_tendency", "Muscle_weakness", "Fever", "Chills",
+    "Nausea", "Swelling", "Chest_discomfort"
+  ],
+  "status_choices": {
+    "HGB_status": ["Very Low", "Low", "Normal", "High"],
+    "RBC_status": ["Low", "Normal", "High"],
+    "MCV_status": ["Low", "Normal", "High"],
+    "WBC_status": ["Very Low", "Low", "Normal", "High"],
+    "NEUT_status": ["Low", "Normal", "High"],
+    "LYM_status": ["Low", "Normal", "High"],
+    "PLT_status": ["Very Low", "Low", "Normal", "High"]
+  }
+}

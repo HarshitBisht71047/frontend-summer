@@ -1,0 +1,40 @@
+{
+  "HGB_status": {
+    "Very Low": "Severely low hemoglobin - possible severe anemia or blood loss.",
+    "Low": "Low hemoglobin - could indicate anemia or nutritional deficiency.",
+    "Normal": "Hemoglobin level is normal.",
+    "High": "High hemoglobin - might suggest dehydration or polycythemia."
+  },
+  "RBC_status": {
+    "Low": "Low red blood cells - may point to anemia or bone marrow issues.",
+    "Normal": "Red blood cell count is normal.",
+    "High": "High RBC count - could suggest dehydration or polycythemia."
+  },
+  "MCV_status": {
+    "Low": "Small red cells - often seen in iron deficiency anemia.",
+    "Normal": "MCV is within normal range.",
+    "High": "Large red cells - may indicate B12 or folate deficiency."
+  },
+  "WBC_status": {
+    "Very Low": "Critically low WBC - high infection risk or immune suppression.",
+    "Low": "Low WBC - could be due to viral infection or bone marrow suppression.",
+    "Normal": "WBC count is normal.",
+    "High": "High WBC - may indicate bacterial infection or inflammation."
+  },
+  "NEUT_status": {
+    "Low": "Low neutrophils - risk of bacterial infections.",
+    "Normal": "Neutrophil count is normal.",
+    "High": "High neutrophils - often suggests bacterial infection."
+  },
+  "LYM_status": {
+    "Low": "Low lymphocytes - may be due to viral infections or immune problems.",
+    "Normal": "Lymphocyte count is normal.",
+    "High": "High lymphocytes - often due to viral infection."
+  },
+  "PLT_status": {
+    "Very Low": "Very low platelets - high risk of bleeding (possible dengue or critical illness).",
+    "Low": "Low platelets - could be due to infection or vitamin deficiency.",
+    "Normal": "Platelet count is normal.",
+    "High": "High platelets - may indicate inflammation or bone marrow activity."
+  }
+}

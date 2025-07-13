@@ -1,0 +1,40 @@
+{
+  "HGB": {
+    "Very Low": 0,
+    "Low": 8,
+    "Normal": 11,
+    "High": 15.5
+  },
+  "RBC": {
+    "Low": 0,
+    "Normal": 4.2,
+    "High": 5.8
+  },
+  "MCV": {
+    "Low": 0,
+    "Normal": 80,
+    "High": 100
+  },
+  "WBC": {
+    "Very Low": 0,
+    "Low": 3000,
+    "Normal": 4000,
+    "High": 11000
+  },
+  "NEUT": {
+    "Low": 0,
+    "Normal": 40,
+    "High": 70
+  },
+  "LYM": {
+    "Low": 0,
+    "Normal": 20,
+    "High": 45
+  },
+  "PLT": {
+    "Very Low": 0,
+    "Low": 75,
+    "Normal": 150,
+    "High": 450
+  }
+}

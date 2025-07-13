@@ -1,0 +1,149 @@
+{% extends 'predictor/base.html' %}
+{% load static %}
+{% block title %}Contact Us – Blood Report AI{% endblock %}
+
+{% block content %}
+<style>
+    .contact-links {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.contact-links a {
+    background-color: #ffffff;
+    border: 2px solid #00c7c7;
+    border-radius: 30px;
+    padding: 0.6rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #00a5a5;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.contact-links a:hover {
+    background-color: #00c7c7;
+    color: white;
+    text-decoration: none;
+}
+
+    body {
+        background: linear-gradient(to right, #e6f5f6, #ffece6);
+    }
+
+    .navbar {
+        background: transparent !important;
+        box-shadow: none;
+    }
+
+    .navbar .nav-link,
+    .navbar .navbar-brand {
+        color: #000 !important;
+        font-weight: 500;
+    }
+
+    .page-section {
+        padding: 6rem 1rem;
+        text-align: center;
+    }
+
+    .page-section h1 {
+        font-weight: 600;
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .page-section p {
+        font-size: 1.125rem;
+        max-width: 800px;
+        margin: 0 auto;
+        line-height: 1.8;
+        color: #444;
+    }
+
+    .contact-links {
+        margin-top: 3rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1.2rem;
+    }
+
+    .contact-links a {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6rem;
+        padding: 0.7rem 1.6rem;
+        border-radius: 40px;
+        font-size: 1rem;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+
+    .contact-links a i {
+        font-size: 1.25rem;
+    }
+
+    .contact-links a.email {
+        background: #fff;
+        border: 2px solid #00bcd4;
+        color: #00bcd4;
+    }
+
+    .contact-links a.email:hover {
+        background: #00bcd4;
+        color: white;
+    }
+
+    .contact-links a.github {
+        background: #fff;
+        border: 2px solid #24292e;
+        color: #24292e;
+    }
+
+    .contact-links a.github:hover {
+        background: #24292e;
+        color: white;
+    }
+
+    .contact-links a.linkedin {
+        background: #fff;
+        border: 2px solid #0a66c2;
+        color: #0a66c2;
+    }
+
+    .contact-links a.linkedin:hover {
+        background: #0a66c2;
+        color: white;
+    }
+</style>
+
+<div class="page-section">
+    <h1>Contact Us</h1>
+    <p>
+        Have questions, feedback, or want to collaborate? We'd love to hear from you.
+        Use the links below to reach out:
+    </p>
+
+    <div class="contact-links">
+        <a href="mailto:team@bloodreport.ai" class="email">
+            <i class="bi bi-envelope-fill"></i> Email
+        </a>
+        <a href="https://github.com/HarshitBisht71047" class="github" target="_blank">
+            <i class="bi bi-github"></i> GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/yourprofile/" class="linkedin" target="_blank">
+            <i class="bi bi-linkedin"></i> LinkedIn
+        </a>
+    </div>
+
+</div>
+{% endblock %}

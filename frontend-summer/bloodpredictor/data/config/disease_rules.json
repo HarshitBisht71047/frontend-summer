@@ -1,0 +1,128 @@
+{
+  "Iron Deficiency (Anemia)": {
+    "HGB_status": ["Low"],
+    "RBC_status": ["Low"],
+    "MCV_status": ["Low", "Normal"],
+    "symptoms": ["Fatigue", "Dizziness", "Paleness", "Muscle_weakness"],
+    "advice": "Low hemoglobin and RBC levels may indicate iron deficiency.",
+    "diet": "Add spinach, legumes, eggs, fortified cereals to your diet.",
+    "follow_up_tests": ["Serum Ferritin", "Serum Iron", "TIBC"]
+  },
+  "Vitamin Deficiency": {
+    "HGB_status": ["Low", "Normal"],
+    "MCV_status": ["High"],
+    "symptoms": ["Fatigue", "Tingling", "Muscle_weakness"],
+    "advice": "Vitamin B12 or folate deficiency may be present.",
+    "diet": "Include dairy, eggs, leafy greens, and multivitamins.",
+    "follow_up_tests": ["Vitamin B12", "Folate", "Peripheral Smear"]
+  },
+  "Dengue (Suspected)": {
+    "PLT_status": ["Low", "Very Low"],
+    "WBC_status": ["Low"],
+    "symptoms": ["Fever", "Chills", "Bleeding_tendency", "Muscle_weakness"],
+    "advice": "Low platelets and fever may suggest dengue.",
+    "diet": "Stay hydrated. Include papaya leaf extract under guidance.",
+    "follow_up_tests": ["NS1 Antigen", "IgM/IgG ELISA", "CBC Repeat"]
+  },
+  "Viral Infection": {
+    "WBC_status": ["Low"],
+    "LYM_status": ["High"],
+    "symptoms": ["Fever", "Chills", "Nausea"],
+    "advice": "White blood cell profile suggests a viral infection.",
+    "diet": "Eat light, stay hydrated, rest well.",
+    "follow_up_tests": ["CRP", "Influenza Test", "COVID-19 (if applicable)"]
+  },
+  "Typhoid (Possible)": {
+    "WBC_status": ["Low"],
+    "NEUT_status": ["Low"],
+    "symptoms": ["Fever", "Nausea", "Fatigue"],
+    "advice": "WBC + neutrophil drop with fever may indicate typhoid.",
+    "diet": "Eat soft, low-fiber foods. Avoid oily or spicy meals.",
+    "follow_up_tests": ["Typhidot", "Widal Test", "Blood Culture"]
+  },
+  "Malaria (Suspected)": {
+    "PLT_status": ["Low"],
+    "symptoms": ["Fever", "Chills", "Muscle_weakness"],
+    "advice": "Symptoms and low platelets may suggest malaria.",
+    "diet": "Maintain hydration. Follow bland diet.",
+    "follow_up_tests": ["Rapid Malaria Test", "Peripheral Smear"]
+  },
+  "Severe Anemia": {
+    "HGB_status": ["Very Low"],
+    "RBC_status": ["Very Low"],
+    "symptoms": ["Fatigue", "Shortness_of_breath", "Paleness"],
+    "advice": "Critically low hemoglobin suggests severe anemia.",
+    "diet": "Urgent care needed. Iron supplements may be prescribed.",
+    "follow_up_tests": ["CBC Repeat", "Iron Panel", "Reticulocyte Count"]
+  },
+  "Pancytopenia (Critical)": {
+    "HGB_status": ["Low", "Very Low"],
+    "RBC_status": ["Low"],
+    "WBC_status": ["Low"],
+    "PLT_status": ["Low", "Very Low"],
+    "symptoms": ["Fatigue", "Bleeding_tendency", "Fever"],
+    "advice": "Low counts in all 3 lines may indicate pancytopenia.",
+    "diet": "Medical supervision needed. Avoid self-treatment.",
+    "follow_up_tests": ["Bone Marrow Biopsy", "Vitamin B12", "LFT/KFT"]
+  },
+  "Thrombocytopenia (Severe)": {
+    "PLT_status": ["Very Low"],
+    "symptoms": ["Bleeding_tendency", "Fatigue"],
+    "advice": "Critically low platelets can cause bleeding risk.",
+    "diet": "Avoid NSAIDs or blood thinners without doctor's advice.",
+    "follow_up_tests": ["CBC Repeat", "Dengue Panel", "Coagulation Profile"]
+  },
+  "Possible Liver/Kidney Issue": {
+    "MCV_status": ["High"],
+    "WBC_status": ["Low"],
+    "symptoms": ["Nausea", "Swelling"],
+    "advice": "Profile may hint at liver or kidney stress.",
+    "diet": "Reduce salt/protein intake temporarily.",
+    "follow_up_tests": ["LFT", "KFT", "USG Abdomen"]
+  },
+  "Possible Immunity Issue": {
+    "WBC_status": ["Very Low"],
+    "NEUT_status": ["Low"],
+    "LYM_status": ["Low"],
+    "symptoms": ["Fever", "Chills", "Tingling"],
+    "advice": "Low WBC lines may indicate immune suppression.",
+    "diet": "Ensure hygiene, consider immunity-boosting diet.",
+    "follow_up_tests": ["Immunoglobulin Panel", "HIV ELISA", "Bone Marrow"]
+  },
+  "Bacterial Infection": {
+    "WBC_status": ["High"],
+    "NEUT_status": ["High"],
+    "symptoms": ["Fever", "Swelling", "Nausea"],
+    "advice": "WBC spike with neutrophils points to infection.",
+    "diet": "Increase fluids, avoid sugary/fatty foods.",
+    "follow_up_tests": ["CRP", "Procalcitonin", "Urine/Blood Culture"]
+  },
+  "Needs Medical Review": {
+    "symptoms": ["any"],
+    "advice": "Your report shows mixed or unclear patterns. A doctor should evaluate further.",
+    "diet": "Maintain a balanced diet and avoid stress.",
+    "follow_up_tests": ["As advised by physician"]
+  },
+  "Normal Report": {
+    "HGB_status": ["Normal"],
+    "RBC_status": ["Normal"],
+    "MCV_status": ["Normal"],
+    "WBC_status": ["Normal"],
+    "NEUT_status": ["Normal"],
+    "LYM_status": ["Normal"],
+    "PLT_status": ["Normal"],
+    "symptoms": [],
+    "advice": "Your CBC appears within normal range.",
+    "diet": "Continue a healthy lifestyle and routine checkups.",
+    "follow_up_tests": []
+  },
+  "General Weakness / Nutrition": {
+    "HGB_status": ["Low", "Normal"],
+    "RBC_status": ["Normal"],
+    "MCV_status": ["Normal"],
+    "symptoms": ["Fatigue", "Dizziness", "Paleness", "Muscle_weakness"],
+    "advice": "Symptoms suggest general fatigue or mild nutritional imbalance.",
+    "diet": "Include protein-rich and iron-containing foods.",
+    "follow_up_tests": ["Vitamin Panel", "CBC Repeat"]
+  }
+}

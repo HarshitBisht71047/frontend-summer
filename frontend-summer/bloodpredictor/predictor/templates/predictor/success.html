@@ -1,0 +1,135 @@
+{% extends 'predictor/base.html' %}
+{% load static %}
+{% block title %}Prediction Results – Blood Report AI{% endblock %}
+
+{% block content %}
+<style>
+    body {
+        background: linear-gradient(to right, #e6f5f6, #ffece6);
+    }
+
+    .navbar {
+        background: transparent !important;
+        box-shadow: none;
+    }
+
+    .navbar .nav-link,
+    .navbar .navbar-brand {
+        color: #000 !important;
+        font-weight: 500;
+    }
+
+    .result-section {
+        padding: 5rem 1rem;
+        text-align: center;
+    }
+
+    .result-section h2 {
+        font-weight: 700;
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        color: #003f5c;
+    }
+
+    .summary-card {
+        max-width: 850px;
+        margin: 2rem auto;
+        background: #ffffff;
+        border-radius: 16px;
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+        padding: 2rem 2.5rem;
+        text-align: left;
+    }
+
+    .summary-card h4 {
+        color: #00a5a5;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+
+    .summary-card ul {
+        list-style: none;
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+
+    .summary-card li {
+        padding: 0.5rem 0;
+        border-bottom: 1px solid #eee;
+    }
+
+    .summary-card li:last-child {
+        border-bottom: none;
+    }
+
+    .btn-again {
+        margin-top: 2rem;
+    }
+
+    .btn-again a {
+        padding: 0.6rem 1.8rem;
+        font-size: 1rem;
+        font-weight: 600;
+        border-radius: 8px;
+    }
+</style>
+
+<div class="result-section">
+    <h2>🧠 Your Personalized AI Health Insights</h2>
+
+    <!-- 🔬 Display Only CBC Data -->
+    <div class="summary-card">
+        <h4>📋 CBC Health Status Summary:</h4>
+        <ul>
+            {% for key, value in input_dict.items %}
+                {% if "status" in key %}
+                    <li>
+                        <b>{{ key|cut:"_status"|upper }}</b>:
+                        <span style="color:
+                            {% if value == 'Normal' %}
+                            {% elif value == 'Low' %}
+                            {% elif value == 'High' %}
+                            {% else %}gray
+                            {% endif %}
+                        ">
+                            {{ value }}
+                        </span>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+
+
+
+    <!-- 🧪 Analysis -->
+    <div class="summary-card">
+        <h4>🔍 CBC Interpretation:</h4>
+        <ul>
+            {% for line in cbc_explanations %}
+                <li>{{ line }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <!-- 💡 Predictions -->
+    <div class="summary-card">
+        <h4>💡 Most Likely Conditions (AI Prediction):</h4>
+        <ul>
+            {% for r in results %}
+                <li>
+                    <b>{{ r.condition }}</b> – {{ r.probability }}<br>
+                    <i>🩺 Advice:</i> {{ r.advice }}<br>
+                    <i>🍽️ Diet:</i> {{ r.diet }}<br>
+                    <i>🧪 Tests:</i> {{ r.follow_up_tests|join:", " }}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <!-- 🔁 Retry -->
+    <div class="btn-again">
+        <a href="{% url 'upload_pdf' %}" class="btn btn-primary btn-lg">Upload Another Report</a>
+    </div>
+</div>
+{% endblock %}
