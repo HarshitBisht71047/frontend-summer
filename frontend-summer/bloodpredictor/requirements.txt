@@ -9,4 +9,4 @@ sqlparse                 # required by Django
 asgiref
 packaging
 whitenoise               # for static file handling on Render
-lightbgm
+lightgbm
