@@ -2,3 +2,5 @@ Django>=4.2
 PyMuPDF>=1.22.0
 gunicorn
 joblib
+numpy
+pandas
